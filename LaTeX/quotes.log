@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=latex 2018.6.11)  20 JUN 2018 20:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=latex 2018.6.11)  25 JUN 2018 16:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**quotes.tex
+**./quotes.tex
 (./quotes.tex
 LaTeX2e <2018-04-01> patch level 2
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
@@ -418,14 +418,39 @@ Underfull \hbox (badness 10000) in paragraph at lines 93--93
 
  []
 
-[2] (./quotes.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
+
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.121 ...raggedleft--- \textup{Georges Georgiou} }
+                                                  
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
+
+ []
+
+[2] [3] (./quotes.aux) ) 
 Here is how much of TeX's memory you used:
  3508 strings out of 492650
- 46846 string characters out of 6129648
+ 46848 string characters out of 6129648
  140489 words of memory out of 5000000
  7454 multiletter control sequences out of 15000+600000
  4937 words of font info for 18 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,10n,24p,209b,295s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,11n,24p,211b,297s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on quotes.dvi (2 pages, 3656 bytes).
+Output written on quotes.dvi (3 pages, 5020 bytes).
