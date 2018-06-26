@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=latex 2018.6.11)  26 JUN 2018 21:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=latex 2018.6.11)  26 JUN 2018 22:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -347,30 +347,15 @@ LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 6.
+(Font)              <10.95> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 6.
+(Font)              <8> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 6.
+(Font)              <6> on input line 10.
  [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 13--13
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 22--22
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 31--31
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 38--38
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
 
  []
 
@@ -380,48 +365,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--46
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--46
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 55--55
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 65--65
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
 
  []
 
 [2
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 93--93
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 89--89
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 89--89
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
-
- []
-
-[3]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -429,106 +383,61 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.121 ...raggedleft--- \textup{Georges Georgiou} }
+l.118 ...raggedleft--- \textup{Georges Georgiou} }
                                                   
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--121
+Underfull \hbox (badness 10000) in paragraph at lines 118--118
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--131
+Underfull \hbox (badness 10000) in paragraph at lines 128--128
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 137--137
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--140
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 158--158
+Underfull \hbox (badness 10000) in paragraph at lines 169--169
 
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 167--167
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 167--167
+Underfull \hbox (badness 10000) in paragraph at lines 208--208
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 174--174
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 174--174
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 193--193
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 193--193
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 193--193
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 207--207
+Underfull \hbox (badness 10000) in paragraph at lines 221--221
 
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 214--214
+Underfull \hbox (badness 10000) in paragraph at lines 251--251
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 214--214
+Underfull \hbox (badness 10000) in paragraph at lines 251--251
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--227
+Underfull \hbox (badness 10000) in paragraph at lines 251--251
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--227
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 237--237
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 246--246
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 246--246
+Underfull \hbox (badness 10000) in paragraph at lines 260--260
 
  []
 
@@ -540,6 +449,6 @@ Here is how much of TeX's memory you used:
  7471 multiletter control sequences out of 15000+600000
  7675 words of font info for 27 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,11n,24p,581b,311s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,11n,24p,581b,303s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on quotes2.dvi (6 pages, 11888 bytes).
+Output written on quotes2.dvi (6 pages, 12888 bytes).
