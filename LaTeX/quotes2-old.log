@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=latex 2018.6.11)  26 JUN 2018 08:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=latex 2018.6.11)  25 JUN 2018 20:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**quotes2.tex
-(./quotes2.tex
+**quotes2-old.tex
+(./quotes2-old.tex
 LaTeX2e <2018-04-01> patch level 2
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/memoir/memoir.cls
@@ -331,8 +331,9 @@ Package tocloft [2008/07/23] emulated by memoir.
 Package tocvsec2 [2008/07/23] emulated by memoir.
 Package verbatim [2008/07/23] emulated by memoir.
 Package verse [2008/07/23] emulated by memoir.
-) (./quotes2.aux)
-\openout1 = `quotes2.aux'.
+)
+No file quotes2-old.aux.
+\openout1 = `quotes2-old.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
@@ -386,54 +387,55 @@ Underfull \hbox (badness 10000) in paragraph at lines 61--61
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+
+ []
+
 [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 76--76
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 76--76
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--85
+Underfull \hbox (badness 10000) in paragraph at lines 91--91
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--85
+Underfull \hbox (badness 10000) in paragraph at lines 91--91
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 92--92
+Underfull \hbox (badness 10000) in paragraph at lines 118--118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--118
 
  []
 
 [2]
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.118 ...raggedleft--- \textup{Georges Georgiou} }
-                                                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 118--118
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 118--118
+Underfull \hbox (badness 10000) in paragraph at lines 128--128
 
  []
 
@@ -443,63 +445,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 128--128
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 137--137
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--147
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 155--155
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
 
  []
 
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 164--164
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 164--164
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 171--171
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 171--171
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 190--190
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 190--190
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 190--190
-
- []
-
-[4] (./quotes2.aux) ) 
+[3] (./quotes2-old.aux) ) 
 Here is how much of TeX's memory you used:
- 3509 strings out of 492650
- 46871 string characters out of 6129648
+ 3507 strings out of 492650
+ 46875 string characters out of 6129648
  141489 words of memory out of 5000000
  7455 multiletter control sequences out of 15000+600000
  4937 words of font info for 18 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 31i,10n,24p,582b,299s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,10n,24p,247b,295s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on quotes2.dvi (4 pages, 9184 bytes).
+Output written on quotes2-old.dvi (3 pages, 6132 bytes).

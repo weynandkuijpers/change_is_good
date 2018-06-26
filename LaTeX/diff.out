@@ -1,0 +1,51 @@
+68,70c68
+< 
+<  \bigskip
+< 
+---
+> \\
+84c82
+<  \textup{Kristof, tx for our past, looking forward to that destiny}
+---
+>  \textup{Kristof, tx for the past, looking forward to the destiny}
+91a90
+> \\
+96,97c95,98
+< 
+< \chapterprecishere{``Dare to Be \\
+---
+>   
+> \chapterprecishere{``
+> Dare to Be
+> \\
+114,115c115
+< At all times, Dare to be!''
+< 
+---
+> At all times, Dare to be!'' \\
+116a117
+> \\
+121a123,124
+> Let this quote from the Alchemist always be a reminder to us all that the strongest power we hold inside us is "love", it's what makes human, its what makes us whole and together with our combined love we can accomplish anything.
+> \\
+125d127
+< \textup{Let this quote from the Alchemist always be a reminder to us all that the strongest power we hold inside us is "love", it's what makes human, its what makes us whole and together with our combined love we can accomplish anything.}
+130a133,134
+> Thank you for the years of inspiration that have past and for the many more to come. \\
+> 
+134d137
+<  \textup{Thank you for the years of inspiration that have past and for the many more to come.}
+137,149d139
+< \bigskip
+< \bigskip
+< 
+< 
+< \chapterprecishere{``Real quality means making sure that people are proud of the code they write, that they're involved and taking it personally.''
+< \\ (Linus Torvalds) \\
+< \\
+<  \textup{Thank you allowing me (and us) writing code which I'm proud, for good cause and better future.}
+< \par\raggedleft--- \textup{Maxime} }
+< 
+< \bigskip
+< \bigskip
+< 
