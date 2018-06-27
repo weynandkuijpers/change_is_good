@@ -6,7 +6,7 @@ This is the place where we will put together all the input / quotes for the toke
 
 All is welcome - if you think of someone that is missing here - please tell him about this.
 
-In the true spirit of being open and sharing - this is a living thing.  If for some reason we have mnissed out on people they can always add their controbution by creating a pull request.
+In the true spirit of being open and sharing - this is a living document.  The idea was to start with a group of people that would reach out to a larger group of people that would reach out .....   etc. etc.  If for some reason we have missed out on people they can always add their contribution by creating a pull request.
 
 New items can be added in two ways:
 - add a file to the ./quotes/todo directory
@@ -23,3 +23,4 @@ The LaTeX section should be something like:
 \textup{<<INsert you personal note here>>}
 \par\raggedleft--- \textup{<<insert your name here} }
 ```
+Addiotional contributions will be integrated and reprinted over time.
