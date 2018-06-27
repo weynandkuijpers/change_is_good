@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=latex 2018.6.20)  27 JUN 2018 11:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=latex 2018.6.20)  27 JUN 2018 15:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -526,7 +526,49 @@ Underfull \hbox (badness 10000) in paragraph at lines 325--325
 
  []
 
-[7] (./quotes2.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 349--349
+
+ []
+
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 349--349
+
+ []
+
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 349--349
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 349--349
+
+ []
+
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 349--349
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 349--349
+
+ []
+
+[8] (./quotes2.aux) ) 
 Here is how much of TeX's memory you used:
  3525 strings out of 494924
  46794 string characters out of 6180768
@@ -536,4 +578,4 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  31i,10n,23p,533b,309s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on quotes2.dvi (7 pages, 14196 bytes).
+Output written on quotes2.dvi (8 pages, 15212 bytes).
