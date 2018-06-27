@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=latex 2018.6.20)  27 JUN 2018 08:26
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=latex 2018.6.11)  27 JUN 2018 11:08
+>>>>>>> 9552d4cbe41e96b9ebfa0db195b3a1999f561074
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -354,6 +358,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 6.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 6.
+<<<<<<< HEAD
 
 [1
 
@@ -369,10 +374,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 23--23
+=======
+ [1
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+>>>>>>> 9552d4cbe41e96b9ebfa0db195b3a1999f561074
 
  []
 
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 33--33
 
  []
@@ -384,57 +396,104 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--43
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 68--68
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+>>>>>>> 9552d4cbe41e96b9ebfa0db195b3a1999f561074
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--78
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
 
  []
 
 [2
 
 ]
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 94--94
 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 94--94
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+>>>>>>> 9552d4cbe41e96b9ebfa0db195b3a1999f561074
 
  []
 
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 94--94
 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 104--104
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
 
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+>>>>>>> 9552d4cbe41e96b9ebfa0db195b3a1999f561074
+
+ []
+
+
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 112--112
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 94--94
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
+>>>>>>> 9552d4cbe41e96b9ebfa0db195b3a1999f561074
 
  []
 
 [3]
+<<<<<<< HEAD
 Missing character: There is no â in font cmti10!
 Missing character: There is no € in font cmti10!
 Missing character: There is no “ in font cmti10!
 
 Underfull \hbox (badness 10000) in paragraph at lines 139--139
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
+>>>>>>> 9552d4cbe41e96b9ebfa0db195b3a1999f561074
 
  []
 
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 139--139
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
+>>>>>>> 9552d4cbe41e96b9ebfa0db195b3a1999f561074
 
  []
 
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 149--149
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
+>>>>>>> 9552d4cbe41e96b9ebfa0db195b3a1999f561074
 
  []
 
@@ -445,11 +504,26 @@ Missing character: There is no â in font cmti10!
 Missing character: There is no € in font cmti10!
 Missing character: There is no “ in font cmti10!
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 159--159
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 149--149
 
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 161--161
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 172--172
+>>>>>>> 9552d4cbe41e96b9ebfa0db195b3a1999f561074
+
+ []
+
+
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 171--171
 
  []
@@ -461,11 +535,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 182--182
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 191--191
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 181--181
+>>>>>>> 9552d4cbe41e96b9ebfa0db195b3a1999f561074
 
  []
 
 [5]
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 243--243
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--252
 
  []
 
@@ -475,17 +560,51 @@ Underfull \hbox (badness 10000) in paragraph at lines 262--262
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 274--274
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 284--284
+
+ []
+
+>>>>>>> 9552d4cbe41e96b9ebfa0db195b3a1999f561074
+
+Overfull \hbox (4.14587pt too wide) in paragraph at lines 294--294
+[]\OT1/cmr/m/it/10 ``Your task is to build a bet-ter world,' God said. I an-swe
+red, `How?...
+ []
+
+
+<<<<<<< HEAD
+Underfull \hbox (badness 10000) in paragraph at lines 262--262
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 294--294
+>>>>>>> 9552d4cbe41e96b9ebfa0db195b3a1999f561074
 
  []
 
 
+<<<<<<< HEAD
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+>>>>>>> 9552d4cbe41e96b9ebfa0db195b3a1999f561074
+
+ []
+
+
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 284--284
 
  []
 
 [6]
 Underfull \hbox (badness 10000) in paragraph at lines 294--294
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+>>>>>>> 9552d4cbe41e96b9ebfa0db195b3a1999f561074
 
  []
 
@@ -496,7 +615,14 @@ Here is how much of TeX's memory you used:
  130029 words of memory out of 5000000
  6902 multiletter control sequences out of 15000+600000
  7675 words of font info for 27 fonts, out of 8000000 for 9000
+<<<<<<< HEAD
  14 hyphenation exceptions out of 8191
  28i,10n,22p,533b,305s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on quotes2.dvi (7 pages, 13112 bytes).
+=======
+ 1141 hyphenation exceptions out of 8191
+ 28i,10n,24p,533b,305s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on quotes2.dvi (7 pages, 13620 bytes).
+>>>>>>> 9552d4cbe41e96b9ebfa0db195b3a1999f561074
