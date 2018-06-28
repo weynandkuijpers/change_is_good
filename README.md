@@ -24,3 +24,8 @@ The LaTeX section should be something like:
 \par\raggedleft--- \textup{<<insert your name here} }
 ```
 Addiotional contributions will be integrated and reprinted over time.
+
+
+
+
+CHANGED!!!!
